@@ -1,0 +1,6 @@
+input("Era uma vez...")
+input("...uma história...")
+input("... em que a pessoa...")
+input("...tinha que apertar enter...")
+input("...para a história continuar...")
+input("...sendo contada...")
